@@ -12,9 +12,9 @@ EditorBuildSettings:
     path: Assets/SharedSpaceExperience/Scenes/GameScene.unity
     guid: 388e874d2142abc4987d4cbf44f25283
   m_configObjects:
-    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: 0c289703430734e4b8c3601f31ea3970,
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: e4ac48da201533145b5bd4d3f1402124,
       type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: ae8bedddd1078a344aa9142fee063b51,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c861621eb3016344f8340be06ad37986,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ee54268b06939046954890534973691,
       type: 2}
